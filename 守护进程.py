@@ -47,6 +47,7 @@ def main():
 
             # Run new process
             run_process(process_path)
+            time.sleep(5)
 
         time.sleep(5)
 
